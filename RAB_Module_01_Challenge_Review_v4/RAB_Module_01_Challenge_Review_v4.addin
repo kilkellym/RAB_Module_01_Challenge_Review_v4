@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>FIZZBUZZ</Text>
+    <Description>Some description for RAB_Module_01_Challenge_Review_v4</Description>
+    <Assembly>RAB_Module_01_Challenge_Review_v4.dll</Assembly>
+    <FullClassName>RAB_Module_01_Challenge_Review_v4.Module01Challenge</FullClassName>
+    <ClientId>72E1FE5C-B5EC-491E-AC9E-29598A291EF2</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Module_01_Challenge_Review_v4 - Command 1</Text>
+    <Description>Some description for RAB_Module_01_Challenge_Review_v4</Description>
+    <Assembly>RAB_Module_01_Challenge_Review_v4.dll</Assembly>
+    <FullClassName>RAB_Module_01_Challenge_Review_v4.Command1</FullClassName>
+    <ClientId>19ef9c4b-fe5d-4a43-8a01-9444e328b1ba</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Module_01_Challenge_Review_v4 - Command 2</Text>
+    <Description>Some description for RAB_Module_01_Challenge_Review_v4</Description>
+    <Assembly>RAB_Module_01_Challenge_Review_v4.dll</Assembly>
+    <FullClassName>RAB_Module_01_Challenge_Review_v4.Command2</FullClassName>
+    <ClientId>9b4eb9a8-5091-4263-87cb-245a5fbd4266</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_Module_01_Challenge_Review_v4</Name>
+    <Assembly>RAB_Module_01_Challenge_Review_v4.dll</Assembly>
+    <FullClassName>RAB_Module_01_Challenge_Review_v4.App</FullClassName>
+    <ClientId>c5c0a675-eb55-4ea6-859b-3b342f515f0d</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
